@@ -1,0 +1,3 @@
+[submodule "FootyHub-Core"]
+	path = FootyHub-Core
+	url = https://github.com/ProfessorPicard/FootyHub-Core

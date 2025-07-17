@@ -1,5 +1,5 @@
 <h1>FootyHub Android Application</h1>
-<p>An Android application created as part of my 2nd year at University of Brighton BSc Computer Science.</p>
+<p>An Android application created as part of my 2nd year at University of Brighton BSc Computer Science, that I am now turning into a fully fledged app.</p>
 <p>Runs on any android device with API 28+</p>
 <p>I would appreciate any bug reports if anyone decides to download and build this. 
   I have also created signed releases in the releases section for anyone wanting to just give it a go</p>
